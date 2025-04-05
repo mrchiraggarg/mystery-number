@@ -1,3 +1,13 @@
-1. npx create-react-app guess-my-number --template typescript
-2. npm install styled-components
-3. npm install --save-dev @types/styled-components
+# 1. Clone the repo
+git clone https://github.com/mrchiraggarg/react-typescript-mystery-number.git
+cd guess-the-gibberish
+
+# 2. Install all dependencies
+npm install
+# or
+yarn install
+
+# 3. Run the project
+npm run dev
+# or
+yarn dev
